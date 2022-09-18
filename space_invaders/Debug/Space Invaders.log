@@ -1,0 +1,39 @@
+﻿  game.cpp
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(20,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(83,65): warning C4244: 'argument' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(83,38): warning C4244: 'argument' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(185,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(185,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(188,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(188,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(191,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(191,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(213,47): warning C4244: '=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(214,47): warning C4244: '=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(255,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(263,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(270,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(282,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(298,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(320,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(341,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(345,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(387,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lise&Andre\Desktop\Space Invaders\game.cpp(387,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Space Invaders.vcxproj -> C:\Users\Lise&Andre\Desktop\Space Invaders\Debug\Space Invaders.exe
