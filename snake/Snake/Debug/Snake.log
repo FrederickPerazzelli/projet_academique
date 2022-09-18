@@ -1,0 +1,4 @@
+﻿  snake.cpp
+C:\Users\Lise&Andre\Desktop\Visual Studio Lab\TP#1\Snake\Snake\snake.cpp(125,18): error C2662: 'void snake::draw(std::ostream &)' : impossible de convertir un pointeur 'this' de 'const snake' en 'snake &'
+C:\Users\Lise&Andre\Desktop\Visual Studio Lab\TP#1\Snake\Snake\snake.cpp(125,5): message : La conversion perd les qualificateurs
+C:\Users\Lise&Andre\Desktop\Visual Studio Lab\TP#1\Snake\Snake\snake.cpp(108,13): message : voir la déclaration de 'snake::draw'
