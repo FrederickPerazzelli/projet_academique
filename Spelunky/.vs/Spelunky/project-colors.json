@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a154398-a584-4bf6-a648-2cde45d00571": {
+      "ProjectGuid": "2a154398-a584-4bf6-a648-2cde45d00571",
+      "DisplayName": "Spelunky",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
