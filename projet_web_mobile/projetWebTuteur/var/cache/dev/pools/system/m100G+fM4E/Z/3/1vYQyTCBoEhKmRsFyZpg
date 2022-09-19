@@ -1,0 +1,3 @@
+<?php //App%255CController%255CApiController%2523getListCategory
+
+return [PHP_INT_MAX, []];
