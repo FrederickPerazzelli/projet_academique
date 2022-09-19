@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Swift</string>
+    <string name="email">Courriel</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Connexion</string>
+    <string name="existingUser">Vous avez déjà un compte?</string>
+    <string name="bithdate">Date de naissance</string>
+    <string name="passwordConfirm">Confirmer le mot de passe</string>
+    <string name="loginHere"><u>Connectez-vous ici</u></string>
+    <string name="register">Inscription</string>
+    <string name="newUser">Vous êtes nouveau sur Swift?</string>
+    <string name="registerHere"><u>Créez-vous un compte ici</u></string>
+    <string name="profile">Profil</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Terminer</string>
+    <string name="firstName">Prénom</string>
+    <string name="lastName">Nom</string>
+    <string name="telephone">Téléphone</string>
+    <string name="institution">Institution</string>
+    <string name="field">Programme d\'étude</string>
+    <string name="generalInfos">Informations générales</string>
+    <string name="studentInfos">Informations académiques</string>
+    <string name="splashScreenTitle">Swift</string>
+    <string name="copyright">Réaliser par : Frédérick Perazzelli, Jean-Nyckolas Roy</string>
+
+    <string name="connexion">Connexion</string>
+    <string name="demande">Demandes</string>
+    <string name="rencontre">Rencontres</string>
+    <string name="profil">Mon Profil</string>
+
+    <string name="buttonDemand">Consulter</string>
+    <string name="TitleListDemands">Les Demandes</string>
+    <string name="wait">Un moment s.v.p..</string>
+
+
+    <string name="TitleDemand">La Demande</string>
+    <string name="question">Question :</string>
+    <string name="repondre">Répondre</string>
+    <string name="reponse">Réponse</string>
+    <string name="votre_r_ponse">Votre Réponse :</string>
+    <string name="entrez_votre_r_ponse">Entrez votre réponse</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="nouvelle_demande">Nouvelle Demande</string>
+    <string name="titre">Titre :</string>
+    <string name="sujet">Sujet :</string>
+    <string name="categorie">Categorie :</string>
+
+
+
+    <string name="complaint">Plainte</string>
+    <string name="description">Description</string>
+</resources>

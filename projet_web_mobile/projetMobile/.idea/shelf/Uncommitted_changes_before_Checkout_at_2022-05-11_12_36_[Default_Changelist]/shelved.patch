@@ -1,0 +1,18 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"DesignSurface\">\r\n    <option name=\"filePathToZoomLevelMap\">\r\n      <map>\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/activity_main.xml\" value=\"0.14945652173913043\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/answer_liste_demand.xml\" value=\"0.14232209737827714\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/demand.xml\" value=\"0.22\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/demands_general_info.xml\" value=\"0.2\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/list_demands.xml\" value=\"0.22\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/new_answer.xml\" value=\"0.1\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/request_demand_answer.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/request_demand_info.xml\" value=\"0.1\" />\r\n        <entry key=\"..\\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/request_list_demands.xml\" value=\"0.20416666666666666\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" project-jdk-name=\"11\" project-jdk-type=\"JavaSDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -9,6 +9,7 @@
+         <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/demands_general_info.xml" value="0.2" />
+         <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/list_demands.xml" value="0.22" />
+         <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/new_answer.xml" value="0.1" />
++        <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/new_demand.xml" value="0.20416666666666666" />
+         <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/request_demand_answer.xml" value="0.20416666666666666" />
+         <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/request_demand_info.xml" value="0.1" />
+         <entry key="..\:/Users/Lise&amp;Andre/Desktop/Projet_tuteur/projetMobile/app/src/main/res/layout/request_list_demands.xml" value="0.20416666666666666" />

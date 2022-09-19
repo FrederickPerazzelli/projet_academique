@@ -1,0 +1,34 @@
+Index: app/src/main/java/com/example/projetmobile/NewDemandActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.example.projetmobile;\r\n\r\nimport androidx.appcompat.app.AppCompatActivity;\r\n\r\npublic class NewDemandActivity extends AppCompatActivity {\r\n}\r\n
+===================================================================
+diff --git a/app/src/main/java/com/example/projetmobile/NewDemandActivity.java b/app/src/main/java/com/example/projetmobile/NewDemandActivity.java
+--- a/app/src/main/java/com/example/projetmobile/NewDemandActivity.java	
++++ b/app/src/main/java/com/example/projetmobile/NewDemandActivity.java	
+@@ -3,4 +3,5 @@
+ import androidx.appcompat.app.AppCompatActivity;
+ 
+ public class NewDemandActivity extends AppCompatActivity {
++
+ }
+Index: app/src/main/res/layout/new_demand.xml
+===================================================================
+diff --git a/app/src/main/res/layout/new_demand.xml b/app/src/main/res/layout/new_demand.xml
+new file mode 100644
+--- /dev/null	
++++ b/app/src/main/res/layout/new_demand.xml	
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="utf-8"?>
++<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    xmlns:tools="http://schemas.android.com/tools"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    tools:context=".NewAnswerActivity"
++    android:background="@color/pink">
++
++
++
++</androidx.constraintlayout.widget.ConstraintLayout>
+\ No newline at end of file
